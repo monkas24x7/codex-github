@@ -100,6 +100,7 @@ Contributions of Codex members on Github
 | Sanket Kumar Nayak | [SanketKN](https://github.com/SanketKN)
 | Suvojit Barick | [SuvojitBarick](https://github.com/SuvojitBarick)
 | Satyapragyan Das| [SatyapragyanDas](https://github.com/SatyapragyanDas)
+| Shubhanjan Dash|[monkas24x7](https://github.com/monkas24x7)
 
 # Screenshots
 
